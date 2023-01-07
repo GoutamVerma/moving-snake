@@ -1,8 +1,6 @@
-# Rust Snake
+# Moving Snake
 
-A snake game written in Rust.
-
-<img src="screenshot.png" />
+This is a classic arcade game where you control a snake and navigate through a series of obstacles to eat food and grow in size. The goal is to see how far you can make it without running into the walls or your own tail, as this will result in game over.
 
 ## How To Run ?
 
@@ -14,7 +12,6 @@ Second, run the following command in the project directory:
 > cargo run
 ```
 
-Enjoy!
 
 ## Game Controls & Rules
 
@@ -29,7 +26,3 @@ Enjoy!
 ## License
 
 Copyright (c) 2016-2022 rust-snake's contributors.
-
-rust-snake is made available under the terms of [the MIT License](LICENSE.md).
-"# moving-snake" 
-"# moving-snake" 
