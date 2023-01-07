@@ -13,15 +13,12 @@ Second, run the following command in the project directory:
 ```
 
 
-## Game Controls & Rules
+## Controls
 
 - Use the arrow keys on the keyboard to move the green snake.
 - Eat the orange food to make the snake stronger (or longer).
 - When the snake hits the border or itself, it dies.
 
-## TODOs
-
-- To have a better game-over screen
 
 ## License
 
